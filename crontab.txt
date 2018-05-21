@@ -1,0 +1,2 @@
+# Collect RRDTOOL stats for the ADSL Modem
+*/5 * * * * /home/simon/GRAPHER/MODEM/ip.sh > /home/simon/GRAPHER/MODEM/ip.out 2>&1
