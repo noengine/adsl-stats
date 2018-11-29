@@ -1,3 +1,5 @@
+# Sorry folks - This project is effectively abandoned after the modem was upgraded
+
 # adsl-stats
 scripts for monitoring internet connection of 2wire gateway
 
